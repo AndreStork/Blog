@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+    <title>Blog di AndreStork</title>
+    <link>https://blog.andrestork.cf/it</link>
+    <description>Un blog a caso</description>
+    </channel>
+    <item>
+        <title>Ecco il mio nuovo blog</title>
+        <link>blog.andrestork.cf/it/2022/09/new-blog.md</link>
+        <guid>new-blog</guid>
+        <pubDate>Tue, 20 Sep 2022 16:30:00 GMT</pubDate>
+        <description>Sì, fa molto schifo, ma ci va bene lo stesso.</description>
+    </item>
+</rss>
