@@ -11,7 +11,8 @@ In ChromeOS "material design" is the key word, everything starting from Chrome, 
 
 ## Applications
 Actually a lot of years passed and app compatibility increased a lot, also because of the two features I'll introduce a bit later, but first…
-…Web apps
+
+### …Web apps
 ChromeOS is an operating system based around the web experience, so it’s not a surprise that the applications you are probably going to use the most are web apps, now ~80% of the software has a web version that at least works, so it makes sense using it when the application that runs the best is your web browser.
 
 ### Android apps
