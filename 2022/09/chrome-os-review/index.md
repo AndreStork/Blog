@@ -2,7 +2,7 @@
 For a couple of months now I've been using ChromeOS on my Huawei Matebook 14 and there are a lot of things I have to say.
 
 ## Installation
-Normally, ChromeOS is available only on Chromebooks, laptops that are approved by Google and developed with ChromeOS in mind, but of course I still don't want to buy a Chromebook, so I decided to install it on my laptop. How? With a project called "Brunch", it aims to install the same ChromeOS that is installed on Chromebooks, but on other x86 computers. Yes, I know that now ChromeOS Flex exists, but it has a lot of limitations, for example it doesn't support Android apps (I will talk about those in a bit), and it's also an operating system that still has only a Dev-Unstable release, which is not a very good thing.
+Normally, ChromeOS is available only on Chromebooks, laptops that are approved by Google and developed with ChromeOS in mind, but of course I still don't want to buy a Chromebook, so I decided to install it on my laptop. How? With a project called [Brunch](https://github.com/sebanc/brunch), it aims to install the same ChromeOS that is installed on Chromebooks, but on other x86 computers. Yes, I know that now ChromeOS Flex exists, but it has a lot of limitations, for example it doesn't support Android apps (I will talk about those in a bit), and it's also an operating system that still has only a Dev-Unstable release, which is not a very good thing.
 
 ## User Interface
 I have to say it, the UI is really good, both aesthetically and functionally. The desktop actually doesn't exist (well, it is present but it doesn't have nothing), everything you have is a taskbar in the bottom, called "shelf" with a drawer button, pinned and opened apps, a calendar and a control center.  
@@ -43,11 +43,12 @@ Well, as I said before, ChromeOS is based around the web experience so, as you m
 Yes, ChromeOS can actually be used for programming and does it really well, you can choose to use an IDE on Crostini or, as I did, using a web IDE. My IDE of choice is always VSCode and it actually has a web version that basically works as its desktop counterpart, and it’s very pleasant to use. But I really miss the debug execution thing, it is very handy.
 
 ### Gaming
-You obviously can’t run AAA games and you can’t even expect to run a very complicated desktop game without encountering problems, but you can install very good Android games from the Play Store and and no one forbids you to run browser games. While you can’t run a lot of desktop games let’s be honest, who would not like to have Flying Gorilla on their computer?
+You obviously can’t run AAA games and you can’t even expect to run a very complicated desktop game without encountering problems, but you can install very good Android games from the Play Store and and no one forbids you to run browser games. While you can’t run a lot of desktop games let’s be honest, who would not like to have [Flying Gorilla](https://play.google.com/store/apps/details?id=jp.pinbit.flygorilla) on their computer?
 
 ## Problems
 Of course with any operating system I try I always have a lot of issues, these are the two that I found:
 - **Hardware compatibility:** it’s not really a ChromeOS issue because it was meant to run on Chromebooks only, but it’s undeniable that on a lot of hardware it can have problems, for example on my Matebook the sound card doesn’t work so I need to connect my computer via HDMI or connect a headphone/speaker via USB or Bluetooth. Also, NVIDIA cards do not work so, you need to have at least a compatible GPU like the integrated one.
 - **Application compatibility:** while it is true that you can also run Android and Linux apps, you will still miss some programs like the Adobe suite or just a good, complex and very complete video editor.
+
 ## Conclusion
 It certainly has some problems, but it’s in constant improvement and, considering the stuff that Google made in the last two years, I think that in the foreseeable future it can be an operating system that at least 80% of people can use.
