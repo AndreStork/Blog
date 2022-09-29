@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+    <title>AndreStork's Blog</title>
+    <link>https://blog.andrestork.cf/</link>
+    <description>A blog where someone just writes random things anout tech.</description>
+    </channel>
+    <item>
+        <title>ChromeOS: a review by a Windows (and occasional Linux) user</title>
+        <link>2022/09/chrome-os-review</link>
+        <guid>chrome-os-review</guid>
+        <pubDate>29 Sep 2022 16:30</pubDate>
+        <description>For a couple of months now I've been using ChromeOS on my Huawei Matebook 14 and there are a lot of things I have to say.</description>
+    </item>
+</rss>
