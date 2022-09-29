@@ -3,3 +3,6 @@
 
 ## Latest posts
 [ChromeOS: a review by a Windows (and occasional Linux) user](2022/09/chrome-os-review/)
+
+## Post archive
+[2022](2022)
