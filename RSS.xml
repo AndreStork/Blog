@@ -2,8 +2,8 @@
 <rss version="2.0">
     <channel>
         <title>AndreStork's Blog</title>
-        <link>https://blog.andrestork.cf/</link>
-        <description>A blog where AndreStork just writes random things about tech.</description>
+        <link>https://blog.andrestork.eu.org/</link>
+        <description>A blog where Andre just writes random things about tech.</description>
         <item>
             <title>ChromeOS: a review by a Windows (and occasional Linux) user</title>
             <link>2022/09/chrome-os-review</link>
