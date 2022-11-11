@@ -1,0 +1,34 @@
+# WhatsApp sucks. Why? And what should be done about it?
+So, if you live outside the U.S., there's a very high chance that WhatsApp is the main messaging application that you and every other people use, but I have a question:
+
+## Why is WhatsApp a thing?
+See, the way people used to send messages in the 90s and the early 2000s was SMS. Almost every phone had an SMS client, and if you wanted to hang up with a friend you just had to open your SMS client, and send the message, simple but very effective; there was a problem tho: back then, SMS had a cost, we're talking about ~0,50€ per message if your carrier plan didn't cover them, and the simple mention of MMS would strike fear into any phone user (I tried that too, I still consider it the best way to waste 48 cents, per message of course).
+It was a carrier problem, but it was so big that in a lot of countries (including Italy) people considered the action of sending an SMS "risky".
+So in 2009 WhatsApp was released, and it was still a paid service, but a lot of people preferred to spend a yearly-fee, and it eventually got free with the acquisition of Meta in 2014.
+Because carriers didn't lower fees until 2017, and because WhatsApp grew up, it started to cause a vendor lock-in that is so big that nowadays people don't even notice it.
+
+## Advantages
+With this question being answered, WhatsApp had and still has a lot of advantages.
+- **No fees, just your internet data:** as already said, you don't need to worry about SMS/MMS fees, because everything works via IP
+- **It's made with multimedia in mind:** not only people didn't have to pay for MMS fees, they could also send photos and videos with an higher resolution
+
+## Problems
+But WhatsApp also has big problems that you shouldn't underestimate.
+- **It creates a vendor lock-in:** by using messaging apps people create a big lock-in, both for yourself and for the others; to send or receive messages people just use WhatsApp and if you don't have a WhatsApp account they can't text you until they change client (pretty much every messaging app can't send and receive SMS messages, doesn't it sound intentional?), and this forces you to install WhatsApp, which can be very uncomfortable and in some cases even impossible if, for example, you don't have a smartphone. Nowadays people just take for granted that you have WhatsApp and for example, when I sent an RCS message to my mom (gonna talk about RCS in a bit) and we got back to home she asked me "Why do you use SMS instead of WhatsApp?", and a similar thing happened with a classmate of mine. A friend of mine also was considered by a lot of people "weird" because he didn't have WhatsApp.
+- **It's centralized:** what does it mean? Well, when you send a message it goes into a WhatsApp datacenter that delivers the message for you. Didn't understand? Put it in this way: you send a letter to your grandma, but instead of sending it to her you send it to your friend that then sends it to your grandma accordingly. Not only it's unreliable, but you also can't know what happens in the process, and I wouldn't be surprised if the data will eventually get sold, because that's what Meta does (and then all the earned money will be wasted in all the Metaverse shit, it can be a topic for another post).
+- **Third-party clients? Fuck that:** if you want to use WhatsApp you have to use the official application. Wanna use something else? You get banned. Why is this a problem? Because the clients, especially the Android one, have a lot of problems, and considering that you can't fix them, it can be really frustrating. Not only that, it also can be a privacy problem because every client is closed-source and let me tell you, I wouldn't trust a client that asks for the system call log permission if the app already has one.
+- **Never give to a big company your messaging infrastructure:** think about the vulnerability we discovered recently, a similar one happened in [2020](https://timesofindia.indiatimes.com/gadgets-news/whatsapp-reveals-six-security-issues-that-could-have-got-its-users-hacked/articleshow/77925426.cms), [2019](https://www.ft.com/content/4da1117e-756c-11e9-be7d-6d846537acab), [2018](https://www.cnbc.com/2018/10/10/whatsapp-bug-let-hackers-hijack-accounts-with-a-video-call-reports.html) and yes, even [2017](https://telegra.ph/whatsapp-backdoor-01-16) (prior to that """e2e encryption""" wasn't implemented). Doesn't that sound intentional? Well, it's because **IT PROBABLY IS**. Meta can always add a backdoor, stop supporting your OS, restrict you or spy on you at any given moment and you probably can't do anything about it. Wanna leave? Good luck at not missing a lot of contacts and your group chats. Giving your messaging infrastructure to a big company can, and probably is, very dangerous.
+
+## What should we use?
+What if there's an open protocol, that can send high-resolution medias, doesn't have fees (apart from your data plan) and has all the advantages that WhatsApp has. That's right, the answer is RCS.
+It's decentralized and isn't managed by a big company. With RCS being just a protocol, there are various versions of it. It can be implemented by your carrier or, the variant that you will probably use is Google's Jibe. What? You told me that giving the messaging infrastructure to a big company can be dangerous, and now you suggest me a Google server? Well, yes but no. While Jibe manages the activation infrastructure, that's pretty much everything it does, your messages don't go through Google servers, but they get sent directly to the recipient (fun fact: if you both have supported clients you can use e2e encryption), and the protocol will remain the same (with maybe some new improvements).
+- **It's decentralized:** no servers involved in the sending/receiving
+- **Has no fees:** by working via IP, you just need to have a data plan, no SMS/MMS fees if RCS is enabled.
+- **It's cross-compatible:** your recipient doesn't have RCS? No problems. Every RCS client switches back to SMS if needed.
+- **Third-party client support:** Google Messages, Samsung Messages, Windows Phone's Messaging app. You can use the client that you want and nothing can prevent you from doing so.
+- **Don't want to have RCS? No problem:** RCS can always be disabled and your contacts can still talk to you via SMS on the same client.
+
+## Other alternatives
+- [Matrix](https://matrix.org/)
+- [XMPP](https://xmpp.org/)
+- [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat)
