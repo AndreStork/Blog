@@ -1,15 +1,15 @@
 # WhatsApp sucks. Why? And what should be done about it?
-So, if you live outside the U.S., there's a very high chance that WhatsApp is the main messaging application that you and every other people use, but I have a question:
+So, if you live outside the U.S., there's a very high chance that WhatsApp is the main messaging application that you and every other person uses, but I have a question:
 
 ## Why is WhatsApp a thing?
-See, the way people used to send messages in the 90s and the early 2000s was SMS. Almost every phone had an SMS client, and if you wanted to hang up with a friend you just had to open your SMS client, and send the message, simple but very effective; there was a problem tho: back then, SMS had a cost, we're talking about ~0,50€ per message if your carrier plan didn't cover them, and the simple mention of MMS would strike fear into any phone user (I tried that too, I still consider it the best way to waste 48 cents, per message of course).
+See, the way people used to send messages in the 90s and the early 2000s was SMS. Almost every phone had an SMS client, and if you wanted to hang out with a friend you just had to open your SMS client, and send the message, simple but very effective; there was a problem tho: back then, SMS had a cost, we're talking about ~0,50€ per message if your carrier plan didn't cover them, and the simple mention of MMS would strike fear into any phone user (I tried that too, I still consider it the best way to waste 48 cents, per message of course).
 It was a carrier problem, but it was so big that in a lot of countries (including Italy) people considered the action of sending an SMS "risky".
-So in 2009 WhatsApp was released, and it was still a paid service, but a lot of people preferred to spend a yearly-fee, and it eventually got free with the acquisition of Meta in 2014.
-Because carriers didn't lower fees until 2017, and because WhatsApp grew up, it started to cause a vendor lock-in that is so big that nowadays people don't even notice it.
+So in 2009 WhatsApp was released, and it was still a paid service, but a lot of people preferred to spend a yearly-fee, and it eventually got free with the acquisition from Meta in 2014.
+Because carriers didn't lower fees until 2017, and because WhatsApp grew, it started to cause a vendor lock-in that is so big that nowadays people don't even notice it.
 
 ## Advantages
 With this question being answered, WhatsApp had and still has a lot of advantages.
-- **No fees, just your internet data:** as already said, you don't need to worry about SMS/MMS fees, because everything works via IP
+- **No fees, just your internet data:** as already said, you don't need to worry about SMS/MMS fees, because everything works using an internet connection
 - **It's made with multimedia in mind:** not only people didn't have to pay for MMS fees, they could also send photos and videos with an higher resolution
 
 ## Problems
@@ -21,11 +21,11 @@ But WhatsApp also has big problems that you shouldn't underestimate.
 
 ## What should we use?
 What if there's an open protocol, that can send high-resolution medias, doesn't have fees (apart from your data plan) and has all the advantages that WhatsApp has. That's right, the answer is RCS.
-It's decentralized and isn't managed by a big company. With RCS being just a protocol, there are various versions of it. It can be implemented by your carrier or, the variant that you will probably use is Google's Jibe. What? You told me that giving the messaging infrastructure to a big company can be dangerous, and now you suggest me a Google server? Well, yes but no. While Jibe manages the activation infrastructure, that's pretty much everything it does, your messages don't go through Google servers, but they get sent directly to the recipient (fun fact: if you both have supported clients you can use e2e encryption), and the protocol will remain the same (with maybe some new improvements).
-- **It's decentralized:** no servers involved in the sending/receiving
-- **Has no fees:** by working via IP, you just need to have a data plan, no SMS/MMS fees if RCS is enabled.
-- **It's cross-compatible:** your recipient doesn't have RCS? No problems. Every RCS client switches back to SMS if needed.
-- **Third-party client support:** Google Messages, Samsung Messages, Windows Phone's Messaging app. You can use the client that you want and nothing can prevent you from doing so.
+It's a standard protocol which isn't managed by any one company. With RCS being just a protocol, there are various implementations of it. It can be implemented by your carrier or, the variant that you will probably use is Google's Jibe. What? You told me that giving the messaging infrastructure to a big company can be dangerous, and now you suggest me a Google server? Well, yes but no. While Jibe manages the activation infrastructure, that's pretty much everything it does, your messages don't go through Google servers, but instead through your carrier (fun fact: if you both have supported clients you can use E2E encryption), and Jibe is fully GSMA compliant, that is it adheres to the RCS standard (with maybe some new improvements).
+- **It's a standard protocol:** no corporate servers involved in the sending/receiving, but anyone can connect to the RCS network
+- **Has no fees:** by working via IP, you just need to have a data plan, no SMS/MMS fees if RCS is enabled
+- **It's cross-compatible:** your recipient doesn't have RCS? No problem: every RCS client switches back to SMS if needed
+- **Third-party client support:** Google Messages, Samsung Messages, Windows Phone's Messaging app. You can use the client that you want and nothing can prevent you from doing so
 - **Don't want to have RCS? No problem:** RCS can always be disabled and your contacts can still talk to you via SMS on the same client.
 
 ## Other alternatives
