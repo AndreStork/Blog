@@ -22,8 +22,8 @@ But WhatsApp also has big problems that you shouldn't underestimate.
 ## What should we use?
 What if there's an open protocol, that can send high-resolution medias, doesn't have fees (apart from your data plan) and has all the advantages that WhatsApp has. That's right, the answer is RCS.  
 It's an open protocol and isn't managed by a big company. With RCS being just a protocol, there are various versions of it. It can be implemented by your carrier or, the variant that you will probably use is Google's Jibe. What? You told me that giving the messaging infrastructure to a big company can be dangerous, and now you suggest me a Google server? Well, yes but no. Jibe is just a platform and while it's mainly used on Google servers it can be also implemented by carriers or other OEMs, and messages get sent **directly** to the recipient in any case (fun fact: if both you and the recipient have supported clients you can use e2e encryption in 1-to-1 chats).
-- **It's a standard protocol:** no corporate servers involved in the sending/receiving, but anyone can connect to the RCS network
-- **Has no fees:** by working via IP, you just need to have a data plan, no SMS/MMS fees if RCS is enabled.
+- **It's a standard protocol:** no corporate servers involved in sending/receiving.
+- **Has no fees:** by working via IP, you just need to have a data plan, no SMS/MMS fees if RCS is enabled on your chat.
 - **It's cross-compatible:** your recipient doesn't have RCS? No problems. Every RCS client switches back to SMS if needed. RCS can also use hubs to comunicate with different servers if needed.
 - **Third-party client support:** Google Messages, Samsung Messages, Windows Phone's Messaging app. You can use the client that you want and nothing can prevent you from doing so.
 - **Don't want to have RCS? No problem:** RCS can always be disabled and your contacts can still talk to you via SMS on the same client.
