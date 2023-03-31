@@ -1,3 +1,6 @@
+---
+layout: post
+---
 # WhatsApp sucks. Why? And what should be done about it?
 So, if you live outside the U.S., there's a very high chance that WhatsApp is the main messaging application that you and every other person uses, but I have a question:
 

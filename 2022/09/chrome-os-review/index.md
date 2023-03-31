@@ -1,3 +1,6 @@
+---
+layout: post
+---
 # ChromeOS: a review by a Windows (and occasional Linux) user
 For a couple of months now I've been using ChromeOS on my Huawei Matebook 14 and there are a lot of things I have to say.
 
