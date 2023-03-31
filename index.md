@@ -3,7 +3,7 @@
 [Go to archive](archive)
 
 ## Latest posts
-[ONIMAI: it's not that bad as you might think](2023/03/onimai-is-not-as-bad-as-you-think/) 
+[ONIMAI: it's not that bad as you might think](2023/03/onimai-is-not-as-bad-as-you-think/)  
 [RCS deserves more attention](2022/12/rcs-deserves-more-attention/)  
 [WhatsApp sucks. Why? And what should be done about it?](2022/11/whatsapp-sucks/)  
 [ChromeOS: a review by a Windows (and occasional Linux) user](2022/09/chrome-os-review/)
