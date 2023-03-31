@@ -1,5 +1,5 @@
 # Welcome to my blog
-[Follow the RSS feed](RSS.xml)
+[Follow the RSS feed](RSS.xml)  
 [Go to archive](archive)
 
 ## Latest posts
