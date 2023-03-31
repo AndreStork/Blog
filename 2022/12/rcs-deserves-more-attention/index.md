@@ -1,3 +1,6 @@
+---
+layout: post
+---
 # RCS deserves more attention
 In the last post I described how WhatsApp is bad and suggested to use RCS instead. And while it is true that RCS is really cool, it has many problems and a lot of them exist just because we don't consider it enough in the modern days of instant messaging apps.
 
