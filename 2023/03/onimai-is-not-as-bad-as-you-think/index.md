@@ -12,5 +12,5 @@ Btw, did you now that I never finished a TV series until now? Yeah I don't reall
 Also, a bit off-topic from my difficulty to complete a show or my sadness, Asahi is my second favourite character after Mahiro, she's a very cute girl.
 
 ## Conclusion
-In conclusion, I think that ONIMAI deserves to be watched if you can stand the ecchi parts and you're away from parents, workplace etc. If you have watched it, please tell us about your opinion and experience (just remember to mark spoilers as, you know, spoilers and be respectful with others). Let's see you in the next article where I will talk about tech, I hope.
+In conclusion, I think that ONIMAI deserves to be watched if you can stand the ecchi parts and you're away from parents, workplace etc. If you have watched it, please tell us about your opinion and experience (just remember to mark spoilers as, you know, spoilers and be respectful with others). Let's see you in the next article where I will talk about tech, I hope.  
 ![Mahiro and Mihari hugging each other, frame from the first episode of the series](ep1-hug.jpg)
