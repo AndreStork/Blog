@@ -1,0 +1,15 @@
+---
+layout: post
+---
+# RCS now sucks
+Yes, the man who always loved RCS and found any reason to talk about it, finishes for hating it, not that I hate RCS by itself, I've already talked in the past about how it's good for being an open and standard protocol and "being cross-compatible" because of the SMS fallback, and it is certainly better than WhatsApp (even though, for me everything is better than WhatsApp), but I started to not consider it the "perfect solution" anymore and it's because of the reasons I'll tell now:
+
+## Nobody cares (seriously)
+In my [/2022/12/rcs-deserves-more-attention/]("RCS deserves more attention" article) I have already told that it doesn't have an open implementation even though by itself it is a standard protocol and I'm going to sum the situation a bit better: it is ignored by pretty much every carrier (except for the United States because people use the stock messaging app, which causes [the iMessage lock-in caused by the high market share of iPhones](https://www.android.com/get-the-message/), but that's a whole other topic). For example the only carrier that supported RCS in Italy, Vodafone, has now announced that [they have discontinued their RCS implementation in favour of Jibe](https://support.vodafone.co.uk/Phones-devices/1974626122/Changes-to-Rich-Communication-Services-for-Android-phones.htm). The reason is mainly the use of IM apps in many countries and I can't blame them: when most people just use WhatsApp, carriers don't implement these protocols because it would cost more than it's worth and it's understandable, but that means that there are no more carrier implementations in many countries (especially Italy), and this takes us to...
+
+## ...It being a Google monopoly
+The only RCS implementation you can use now in many countries is Jibe, and being owned by Google it is closed source + in many devices that based their RCS client on the carrier's implementation it is now useless. How cool is that? Isn't it?.  
+And, Google being Google, Jibe could be discontinued in any moment for any unjustified reason and by consequence RCS could always become [a thing of the past](https://youtu.be/ED4es0-j8M4?t=40) (how ironic). Also, there are many features that are available only on Google Messages (reactions and E2E encryption for example).
+
+## So... should we use SMS?
+Yes and no... at one side it is a standard protocol like RCS and every carrier supports it + they also give an high or unlimited number of messages for free, but it is still a protocol from the 90s: it works well on the Nokia feature phone your grandma has, and it also works fine with smartphones, but with the technologies smartphone has and now use with IM services we could really consider an open protocol that works via IP, that has E2E encryption by default and that fallbacks to SMS if it isn't available. I used to like the fact that Signal could be used as your SMS client, [but you can't do it anymore](https://www.signal.org/blog/sms-removal-android/) (how unfortunate).
