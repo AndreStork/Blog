@@ -1,8 +1,9 @@
 # Welcome to my blog
 [Follow the RSS feed](feed.xml)  
-[Go to archive](archive)
+[Go to archive (not recommended)](archive)
 
 ## Latest posts
+[My favorite Material Design 3 apps of August 2023](2023/08/material-you-apps-august-2023/)  
 [RCS now sucks](2023/06/rcs-now-sucks)  
 [ONIMAI: it's not that bad as you might think](2023/03/onimai-is-not-as-bad-as-you-think/)  
 [RCS deserves more attention](2022/12/rcs-deserves-more-attention/)  
