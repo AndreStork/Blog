@@ -1,3 +1,6 @@
+---
+layout: post
+---
 # My favorite Material Design 3 apps of August 2023
 As some of you might know, I'm a Material 3/Material You fan; so, obviously, I'm interested in apps that use it and I might end up using them daily, so this month I'm starting an occasional format on which I will list some of my favorite Material Design 3 apps.  
 Before starting I want to give a big thanks to Nyas for making and updating a [Material You app list](https://github.com/nyas1/Material-You-app-list), it has been a great source of discovery for me and it's a good list too, you should give it a look imho. Let's begin.
