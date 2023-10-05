@@ -27,3 +27,10 @@ You can download it from the [official GitHub repository](https://github.com/Swo
 
 ## Conclusion
 That's all folks, here are some of my favorite MD3 Android apps, if you want to suggest some Material You apps leave a comment and I'll try them if I'm interested.
+
+## Post Scriptum
+
+H~hi Andrea, I~I'm yo~y~your biggest f~fan UwU *Blushes*
+*Empties a Gasoline canister on himself and fucking commits s*****e for he has commited the ultimate crime: he did a cringey thing!*
+
+Sorry I'm stupid.
