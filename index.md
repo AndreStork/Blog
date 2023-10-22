@@ -1,5 +1,5 @@
 # Welcome to my blog
-**This blog is completely FOSS-powered except for the comments powered by Disqus, if you want to opt-out (which is understandable), you can disable JavaScript within your browser settings or with extensions like uBlock Origin.**  
+**This blog is completely FOSS-powered except for the comments powered by Disqus, if you want to opt-out, you can disable JavaScript within your browser settings or with extensions like uBlock Origin.**  
 [Follow the RSS feed](feed.xml)  
 [Go to archive (not recommended)](archive)
 
