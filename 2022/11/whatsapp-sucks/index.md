@@ -2,6 +2,7 @@
 layout: post
 ---
 # WhatsApp sucks. Why? And what should be done about it?
+**This article is obsolete and going to be replaced soon:** while this is still a good article many things have changed with the passing of time and this post also has some phrasing problems.  
 So, if you live outside the U.S., there's a very high chance that WhatsApp is the main messaging application that you and every other person uses, but I have a question:
 
 ## Why is WhatsApp a thing?
