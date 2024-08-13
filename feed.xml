@@ -3,7 +3,15 @@
     <channel>
         <title>AndreStork's Blog</title>
         <link>https://blog.andrestork.eu.org/</link>
-        <description>A blog where Andre just writes random things about tech.</description>
+        <description>A blog where I write random things about tech and maybe other stuff too.</description>
+        <item>
+            <title>Trying to jailbreak an old LG Bluray Player</title>
+            <link>http://blog.andrestork.eu.org/2024/08/lg-bd-jailbreak</link>
+            <guid>lg-bd-jailbreak</guid>
+            <updated>2024-08-13T13:35:00Z</updated>
+            <pubDate>Tue, 13 Aug 2024 15:35:00 +0200</pubDate>
+            <description>I have an old LG Blu-ray Player laying around, it's the BP450 model and it supports some streaming apps, but it's limited to Netflix and YouTube and there's no App Store, so can I mod it to load third party stuff?</description>
+        </item>
         <item>
             <title>My favorite Material Design 3 apps of August 2023</title>
             <link>http://blog.andrestork.eu.org/2023/08/material-you-apps-august-2023</link>
