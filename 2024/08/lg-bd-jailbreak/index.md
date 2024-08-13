@@ -8,8 +8,8 @@ I've never done reverse engineering before and I don't even know if I should con
 I decided to hook the player on my LAN and open WireShark (a network packet monitoring tool). It took a few tries but I started to find some stuff.  
 ![Screen of the first attempt to reverse engineer](tentativo1.png)  
 Upon starting the Premium functionality the player seems to start trying to connect to a certain IP address, I've tried to open it on my computer but, nothing. With a Google search it seems to be a reserved IP for some local stuff. Trying to start YouTube seems to not change anything.  
-While I was thinkering with what I had I tried to start the capture before starting the connection wizard, fairly enough there are some HTTP requests:
-![Screen of the second attempt showing some HTTP request made to the player's web server](tentativo2.png)
+While I was thinkering with what I had I tried to start the capture before starting the connection wizard, fairly enough there are some HTTP requests:  
+![Screen of the second attempt showing some HTTP request made to the player's web server](tentativo2.png)  
 They all seem to be requests to a web server installed on the player located on port 2870, trying to open the page in a browser results in a "403 Forbidden" error, its user agent seems to go by the name of "LG-BDP Linux/2.6.35 UPnP/1.0 DLNADOC/1.50 LGE_DLNA_SDK/1.5.0".
 Other than this stuff I haven't found anything interesting that I could see, so I tried to do the DNS trick without knowing any better and probably this whole WireShark thing I did was useless.
 ## Trying to hijack the WebView
