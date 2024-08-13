@@ -4,6 +4,7 @@
 [Go to archive (not recommended)](archive)
 
 ## Latest posts
+[Trying to jailbreak an old LG Bluray Player](2024/08/lg-bd-jailbreak/)  
 [My favorite Material Design 3 apps of August 2023](2023/08/material-you-apps-august-2023/)  
 [RCS now sucks](2023/06/rcs-now-sucks)  
 [ONIMAI: it's not that bad as you might think](2023/03/onimai-is-not-as-bad-as-you-think/)  
