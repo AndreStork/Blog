@@ -33,4 +33,4 @@ It's an open protocol and isn't managed by a big company. With RCS being just a 
 - **Don't want to have RCS? No problem:** RCS can always be disabled and your contacts can still talk to you via SMS on the same client.
 
 ## Conclusion
-So here's why WhatsApp sucks, if anyone asks you "Why don't you just install WhatsApp?" or "Why do you send me an SMS instead of using WhatsApp?", send them this article and, maybe, they will understand.
+So here's why WhatsApp sucks, if anyone asks you "Why don't you just install WhatsApp?" or "Why do you send me an SMS instead of using WhatsApp?", send them this article and, maybe, they will understand why and move on, or maybe not, but at least you've tried.
