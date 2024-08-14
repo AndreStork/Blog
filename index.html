@@ -10,20 +10,32 @@
             color: white;
             text-align: center;
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin-left: 0;
         }
         .post-feed{
             display: flex;
             flex-wrap: wrap;
+            justify-content: center;
         }
         .post{
             padding: 1px 10px;
             margin: 10px;
             background-color: darkgrey;
-            width: 500px;
             text-align: left;
+            width: 500px;
         }
         .post-date{
             font-size: 8pt;
+        }
+
+        @media only screen and (max-width: 600px){
+            .post-feed{
+                justify-content: left;
+            }
+            .post{
+                margin-left: 0;
+                width: 100%;
+            }
         }
     </style>
 </head>
