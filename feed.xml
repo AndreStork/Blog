@@ -2,11 +2,11 @@
 <rss version="2.0">
     <channel>
         <title>AndreStork's Blog</title>
-        <link>https://blog.andrestork.eu.org/</link>
+        <link>https://blog.andrestork.moe/</link>
         <description>A blog where I write random things about tech and maybe other stuff too.</description>
         <item>
             <title>Telegram sucks too</title>
-            <link>http://blog.andrestork.eu.org/2024/08/telegram-sucks-too</link>
+            <link>http://blog.andrestork.moe/2024/08/telegram-sucks-too</link>
             <guid>telegram-sucks-too</guid>
             <updated>2024-08-14T15:05:00Z</updated>
             <pubDate>Wed, 14 Aug 2024 17:05:00 +0200</pubDate>
@@ -14,7 +14,7 @@
         </item>
         <item>
             <title>Trying to jailbreak an old LG Bluray Player</title>
-            <link>http://blog.andrestork.eu.org/2024/08/lg-bd-jailbreak</link>
+            <link>http://blog.andrestork.moe/2024/08/lg-bd-jailbreak</link>
             <guid>lg-bd-jailbreak</guid>
             <updated>2024-08-13T13:42:00Z</updated>
             <pubDate>Tue, 13 Aug 2024 15:42:00 +0200</pubDate>
@@ -22,7 +22,7 @@
         </item>
         <item>
             <title>My favorite Material Design 3 apps of August 2023</title>
-            <link>http://blog.andrestork.eu.org/2023/08/material-you-apps-august-2023</link>
+            <link>http://blog.andrestork.moe/2023/08/material-you-apps-august-2023</link>
             <guid>material-you-apps-august-2023</guid>
             <updated>2023-08-20T19:10:00Z</updated>
             <pubDate>Sun, 20 Aug 2023 21:10:00 +0200</pubDate>
@@ -30,7 +30,7 @@
         </item>
         <item>
             <title>RCS now sucks</title>
-            <link>http://blog.andrestork.eu.org/2023/06/rcs-now-sucks</link>
+            <link>http://blog.andrestork.moe/2023/06/rcs-now-sucks</link>
             <guid>rcs-now-sucks</guid>
             <updated>2023-06-06T14:30:00Z</updated>
             <pubDate>Tue, 06 Jun 2023 16:30:00 +0200</pubDate>
@@ -38,28 +38,28 @@
         </item>
         <item>
             <title>ONIMAI: it's not that bad as you might think</title>
-            <link>http://blog.andrestork.eu.org/2023/03/onimai-is-not-as-bad-as-you-think</link>
+            <link>http://blog.andrestork.moe/2023/03/onimai-is-not-as-bad-as-you-think</link>
             <guid>onimai-is-not-as-bad-as-you-think</guid>
             <pubDate>Fri, 31 Mar 2023 16:30:00 +0200</pubDate>
             <description>I've lately began to get into CGDCT animes in the last weeks and the fault is mainly K-ON's. At the end I decided to begin with "ONIMAI: I'm Now Your Sister", based on the Nekotofu's manga of the same name, because a video that I saw inspired me to watch it. Read the full article to learn more about my watching pleasure.</description>
         </item>
         <item>
             <title>RCS deserves more attention</title>
-            <link>http://blog.andrestork.eu.org/2022/12/rcs-deserves-more-attention</link>
+            <link>http://blog.andrestork.moe/2022/12/rcs-deserves-more-attention</link>
             <guid>rcs-deserves-more-attention</guid>
             <pubDate>Mon, 19 Dec 2022 22:30:00 +0200</pubDate>
             <description>In the last post I described how WhatsApp is bad and suggested to use RCS instead. And while it is true that RCS is really cool, it has many problems and a lot of them exist just because we don't consider it enough in the modern days of instant messaging apps.</description>
         </item>
         <item>
             <title>WhatsApp sucks. Why? And what should be done about it?</title>
-            <link>http://blog.andrestork.eu.org/2022/11/whatsapp-sucks</link>
+            <link>http://blog.andrestork.moe/2022/11/whatsapp-sucks</link>
             <guid>whatsapp-sucks</guid>
             <pubDate>Fri, 11 Nov 2022 16:30:00 +0200</pubDate>
             <description>So, if you live outside the U.S., there’s a very high chance that WhatsApp is the main messaging application that you and every other people use, but I have a bunch of things to say about it</description>
         </item>
         <item>
             <title>ChromeOS: a review by a Windows (and occasional Linux) user</title>
-            <link>http://blog.andrestork.eu.org/2022/09/chrome-os-review</link>
+            <link>http://blog.andrestork.moe/2022/09/chrome-os-review</link>
             <guid>chrome-os-review</guid>
             <pubDate>Thu, 29 Sep 2022 16:30:00 +0200</pubDate>
             <description>For a couple of months now I've been using ChromeOS on my Huawei Matebook 14 and there are a lot of things I have to say.</description>
