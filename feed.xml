@@ -6,6 +6,14 @@
         <description>A blog where I write random things about tech and maybe other stuff too.</description>
         <item>
             <title>I'm out from making tags work on Last.fm</title>
+            <link>http://blog.andrestork.moe/2026/05/switch-to-signal</link>
+            <guid>switch-to-signal</guid>
+            <updated>2026-05-27T8:15:00Z</updated>
+            <pubDate>Wed, 27 May 2026 10:15:00 +0200</pubDate>
+            <description>If you know me and have read past articles on this Blog, you may know well that I really hate how the mobile IM services market is underwhelming at best and [dangerous](/2022/11/whatsapp-sucks/) at worst. The issue of WhatsApp being the main Instant Messaging app for mobile devices in many countries (including Italy) still remains, and I also haven't found a way to completely quit and delete my account for good. But even the competition hasn't been quite good in the last years, and when it comes to the criterias I used to and still want in a mobile IM service none of the alternatives have ever been good enough.</description>
+        </item>
+        <item>
+            <title>I'm out from making tags work on Last.fm</title>
             <link>http://blog.andrestork.moe/2026/05/fuck-lastfm</link>
             <guid>fuck-lastfm</guid>
             <updated>2026-05-25T11:05:00Z</updated>
